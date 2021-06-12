@@ -1,5 +1,5 @@
 # Big Mart Analysis  
-![GitHub repo size](https://img.shields.io/github/repo-size/GarethSequeira/Big-Mart-Analysis?label=Repository%20Size)
+
 <img src="https://img.shields.io/badge/-Jupyter%20Notebook-orange">
 <img src="https://img.shields.io/badge/Language%20-%20R%20-skyblue">
 
