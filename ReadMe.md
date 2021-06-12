@@ -1,7 +1,6 @@
 # Big Mart Analysis  
 
-<img src="https://img.shields.io/badge/-Jupyter%20Notebook-orange">
-<img src="https://img.shields.io/badge/Language%20-%20R%20-skyblue">
+<img src="https://img.shields.io/badge/-Jupyter%20Notebook-orange"> <img src="https://img.shields.io/badge/Language%20-%20R%20-skyblue">
 
 <img align="right" src="https://github.com/GarethSequeira/Big-Mart-Analysis/blob/main/BigMart/Images/BigMartSq.png" width="300" height="300">  
 
